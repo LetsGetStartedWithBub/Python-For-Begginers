@@ -1,0 +1,3 @@
+#print a triangle in 1 line............
+for i in range(1,int(input())): 
+    print((10**i//9)*i)        #important trick (10**i//9)*i 
