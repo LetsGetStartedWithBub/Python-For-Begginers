@@ -1,2 +1,2 @@
-# Python-For-Beginners
-All python coding files🧾 for beginners 🤓
+# Python-For-Beginners 🤓
+All python coding files🧾 for beginners 😇
